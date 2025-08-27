@@ -1,50 +1,45 @@
-# 👋 Hi, I'm Samson Simeon
+# 👋 Hi, I'm Samson!
 
-**Web Developer (MERN Stack) | Data Analyst (BI Developer) | Tech World Explorer**
+I’m a results-driven **Full-Stack Developer (MERN)** and **Business Intelligence (BI) Analyst** passionate about building scalable web apps and turning data into actionable insights.
 
----
 
-## 🚀 About Me
 
-I am a results-driven professional specializing in both full-stack web development and business intelligence. With expertise in the MERN stack and a strong foundation in data analytics, I am passionate about building scalable digital solutions and transforming data into actionable insights.
+### 💼 What I Do
+- 🌐 Develop full-stack applications using **MongoDB, Express.js, React, Node.js**
+- 📊 Build interactive dashboards and data pipelines with **SQL, Power BI, Python**
+- ⚙️ Automate and optimize reporting workflows with **SSIS** and **data modeling**
 
----
 
-## 🛠️ Technical Skills
 
-**Web Development:**
-- React
-- Express
-- JavaScript
-- HTML & CSS (and SSAS)
-- Node.js
+### 🔧 Tech Stack
+- **Languages:** JavaScript, Python, SQL, Bash
+- **Frameworks:** React, Node.js, Express
+- **Data Tools:** Power BI, SSIS, Pandas, NumPy
+- **DevOps:** Git, GitHub, Linux (Ubuntu/CentOS), Docker (learning)
+- **Cloud:** AWS (beginner), Heroku, Render
 
-**Data Analytics & BI:**
-- Python
-- SQL
-- SSIS
-- Power BI
 
----
 
-## 🌱 What I’m Working On
+### 📌 Current Projects
+- 🚀 Building a personal portfolio site using React + Tailwind CSS
+- 📈 Developing an end-to-end Power BI dashboard for eCommerce insights
+- 🛠️ Completing the **ALX Full-Stack Engineering** curriculum
 
-- Developing scalable web applications and interactive dashboards
-- Exploring the latest trends in data analytics and visualization
-- Continuously learning and adapting to emerging technologies
 
----
 
-## 🌍 Tech World Explorer
+### 🧠 Learning Goals (2025)
+- Advance cloud skills in **AWS & Azure**
+- Deepen data engineering knowledge with **Airflow, DBT**
+- Learn **TypeScript** and **Next.js**
 
-Driven by curiosity and innovation, I am always seeking new challenges and opportunities to expand my horizons in the tech industry.
 
----
 
-## 🔗 Connect with Me
+### 📫 Let's Connect!
+- LinkedIn: http://linkedin.com/in/samson-simeon-0811a016a
+- Email: samsonsimeon2004@gmail.com 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samson%20Simeon-blue?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/samson-simeon-0811a016a)
 
----
 
-> “Turning ideas into digital solutions and data into stories.”
+> “Turning ideas into digital solutions, and data into stories.”
+
+
